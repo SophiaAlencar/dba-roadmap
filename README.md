@@ -3,3 +3,4 @@ Estudo prático em administração de banco de dados, SQL, performance, backup e
 
 ### Semana 1
 - Sintaxe e lógica dos usuários, roles, permissões e privilégios do PostgreSQL. FONTE: Documentação oficial.
+- Leitura sobre processos de backup, restore e recovery. FONTES: Sistema de Banco de Dados, de Abraham Silberschatz (Capítulo 19) e Documentação oficial do PostgreSQL.    
