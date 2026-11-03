@@ -8,3 +8,4 @@ Estudo prático em administração de banco de dados, SQL, performance, backup e
 - Leitura do artigo: "Critérios para Seleção de SGBD NoSQL: o Ponto de Vista de Especialistas com base na Literatura" de Alexandre Morais de Souza, Edmir P. V. Prado, Violeta Sun e Marcelo Fantinato.
 - Prática dos comandos de backup, restore e recovery.
 - Revisão do que já foi visto e conceitos de transação, locks e deadlocks.
+- Leitura sobre índices, estatísticas (das tabelas e views já vistas) e manutenção. FONTE: Documentação oficial.
