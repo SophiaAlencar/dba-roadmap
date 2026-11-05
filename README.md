@@ -9,3 +9,11 @@ Estudo prático em administração de banco de dados, SQL, performance, backup e
 - Prática dos comandos de backup, restore e recovery.
 - Revisão do que já foi visto e conceitos de transação, locks e deadlocks.
 - Leitura sobre índices, estatísticas (das tabelas e views já vistas) e manutenção. FONTE: Documentação oficial.
+
+### Semana 2
+- Organização de tópicos para estudo:
+1. Plano de execução com EXPLAIN e EXPLAIN ANALYZE
+2. Comparação e otimização de consultas
+3. Aprofundamento de shell script
+4. Criação de scripts de monitoramento/log
+5. E se o ETL falhar?
