@@ -17,3 +17,6 @@ Estudo prático em administração de banco de dados, SQL, performance, backup e
 3. Aprofundamento de shell script
 4. Criação de scripts de monitoramento/log
 5. E se o ETL falhar?
+
+- Projeção do lab para administrar um banco de dados:
+*Construção do cenário* > Aplicação para gestão de dados hospitalares.
